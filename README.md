@@ -25,7 +25,7 @@ SparkUp is a full-stack mobile application built with **React Native (Expo)** an
 
 ## 🌟 Overview
 
-SparkUp solves a core problem for college students: traditional dating apps are noisy, unverified, and lack campus context. SparkUp restricts sign-up to valid **college email addresses** and enriches matching with a **psychometric personality test**, ensuring connections are meaningful and contextually relevant.
+SparkUp solves a core problem for college students: traditional social apps are noisy, unverified, and lack campus context. SparkUp restricts sign-up to valid **college email addresses** and enriches matching with a **psychometric personality test**, ensuring connections are meaningful and contextually relevant.
 
 The app operates across four key pillars:
 
