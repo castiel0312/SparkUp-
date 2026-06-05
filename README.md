@@ -50,7 +50,7 @@ The app operates across four key pillars:
 
 ### 💘 Discover (Swiping)
 
-- **Tinder-style card deck** with gesture-based swiping (left = reject, right = like, star button = super-like)
+- **Smooth card deck** with gesture-based swiping (left = reject, right = like, star button = super-like)
 - **LIKE / NOPE stamps** that fade in as the card is dragged
 - **Next card pre-rendered** behind the current card for a seamless stack feel
 - **Animated action buttons** (X, ⭐, ❤️) with spring micro-animations on press
